@@ -10,5 +10,5 @@
 - variable binding inside a string
 
 > Example: 
-> ``` const  audio = document.querySelector(`audio[data-key="${event.keyCode}"]`); ```
+> ``` const  audio = document.querySelector(`audio[data-key="${event.keyCode}"]`); ```\
 > ``` const  key = document.querySelector(`.key[data-key="${event.keyCode}"]`); ```
