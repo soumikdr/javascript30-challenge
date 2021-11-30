@@ -7,7 +7,7 @@
 - audio
 
 ##### JS
-- variable binding inside a string
+- Template Literals (variable binding inside a string)
 
 > Example: 
 > ``` const  audio = document.querySelector(`audio[data-key="${event.keyCode}"]`); ```\
